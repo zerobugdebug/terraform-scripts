@@ -1,0 +1,7 @@
+*.tfplan
+*.tfstate
+*.backup
+*.rename
+*.example
+*.old
+*/.terraform/*
